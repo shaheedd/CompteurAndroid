@@ -6,4 +6,6 @@
     <string name="bouton_incrementer">+</string>
     <string name="bouton_decrementer">-</string>
     <string name="bouton_reinitialiser">Réinitialiser</string>
+    <string name="bouton_toast">Afficher un message</string>
+    <string name="toast_message">Bonjour depuis CompteurAndroid !</string>
 </resources>
