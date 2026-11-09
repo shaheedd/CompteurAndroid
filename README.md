@@ -22,3 +22,6 @@ Application mobile Android native implémentant un compteur interactif simple et
 2. Ouvrir le projet dans **Android Studio**.
 3. Laisser Gradle synchroniser les dépendances.
 4. Lancer l'application sur un émulateur ou un appareil physique connecté.
+
+## Auteur
+Shahed Attari
