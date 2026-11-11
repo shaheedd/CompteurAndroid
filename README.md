@@ -7,6 +7,7 @@ Application mobile Android native implémentant un compteur interactif simple et
 - Bouton `+` pour incrémenter la valeur.
 - Bouton `-` pour décrémenter la valeur.
 - Bouton `Réinitialiser` pour remettre le compteur à 0.
+- Bouton supplémentaire affichant un message `Toast`.
 
 ## Technologies
 - **Langage** : Kotlin
@@ -17,7 +18,7 @@ Application mobile Android native implémentant un compteur interactif simple et
 ## Installation et exécution
 1. Cloner le dépôt :
    ```bash
-   git clone <URL_DU_DEPOT>
+   git clone https://github.com/shaheedd/CompteurAndroid.git
    ```
 2. Ouvrir le projet dans **Android Studio**.
 3. Laisser Gradle synchroniser les dépendances.
