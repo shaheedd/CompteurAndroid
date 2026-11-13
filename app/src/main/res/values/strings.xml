@@ -2,10 +2,9 @@
     <string name="app_name">CompteurAndroid</string>
 
     <string name="titre_compteur">Mon compteur</string>
-    <string name="valeur_initiale">0</string>
-    <string name="bouton_incrementer">+</string>
-    <string name="bouton_decrementer">-</string>
+    <string name="compteur_initial">0</string>
+
+    <string name="bouton_plus">+</string>
+    <string name="bouton_moins">-</string>
     <string name="bouton_reinitialiser">Réinitialiser</string>
-    <string name="bouton_toast">Afficher un message</string>
-    <string name="toast_message">Bonjour depuis CompteurAndroid !</string>
 </resources>
